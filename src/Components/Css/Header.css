@@ -1,0 +1,29 @@
+.navbar-nav .nav-link {
+  color:#0d0f01;
+  transition: color 0.3s;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #acc907; /* Change to the color you want on hover */
+}
+
+.navbar-nav .dropdown-item {
+  color: black;
+  transition: color 0.3s;
+}
+
+.navbar-nav .dropdown-item:hover {
+  color:#4B5320; /* Change to the color you want on hover */
+}
+
+.navbar-brand {
+  margin-left: 0;
+}
+
+.container-fluid {
+  padding-left: 0;
+}
+
+.form-control {
+  margin-right: 0;
+}

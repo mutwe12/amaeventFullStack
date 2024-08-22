@@ -1,0 +1,17 @@
+/* Add this to your CSS file */
+.carousel-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Adjust this value if necessary */
+  }
+  .reduced-container {
+    padding: 2rem; /* Adjust padding as needed */
+    width: 100%;    /* Adjust width as needed */
+    margin: auto;  /* Center the container */
+    background-color: #2c2c2c; /* Ensure the background color is set properly */
+  }
+  .bg-army-green {
+    background-color: #4B5320;
+    color: white;
+  }
